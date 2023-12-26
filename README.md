@@ -6,6 +6,21 @@
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 </div>
 
+#### 📈 GitHub Stats:
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mar-ina-thal&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <em>Take a look at my projects and let's get in touch</em> 📬
+</p>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/marina-thalassini-filippidou-58b402239/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:mathalfilip@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **mar-ina-thal/mar-ina-thal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
