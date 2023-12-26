@@ -1,7 +1,9 @@
+# Hello, I'm Marina 
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&color=28C00B&center=true&vCenter=true&width=435&height=150&lines=Hello%2C+I'm+Marina+%F0%9F%91%8B;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
-
+-->
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 </div>
