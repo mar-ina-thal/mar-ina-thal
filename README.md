@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://giphy.com/embed/7OMR3y1E9QeYsr9olS" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/7OMR3y1E9QeYsr9olS" width="100" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS">
 </div>
 
 <!--
