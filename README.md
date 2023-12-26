@@ -1,7 +1,10 @@
-### Hello and welcome  👋
+### Hello, I'm Marina. Welcome to my Git  👋
 
 - 🔭 I’m currently working on a neural network for the prediction of trasncription factor binding sites 
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 <!--
